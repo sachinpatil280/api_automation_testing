@@ -4,6 +4,14 @@
 This project is used to test a given API with "GET" method. The automation uses Python with `requests` library and using pytest framework.
 Test cases are specified in `test_cases` folder and `pytest-html` library is used for generating report.
 
+## Prerequisite
+
+Below tools and libraries should be installed:
+
+1. `Docker`
+2. `Python`
+3. `pip`
+
 
 ## Installation and running on the local machine
 To do the setup on local machine, please follow the below steps:

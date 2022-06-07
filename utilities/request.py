@@ -10,6 +10,7 @@ class Response:
     as_dict: object
     headers: dict
 
+# Wrapper code for API's get, post and other methods and get response in more formatted and clean way.
 
 class APIRequest:
 
